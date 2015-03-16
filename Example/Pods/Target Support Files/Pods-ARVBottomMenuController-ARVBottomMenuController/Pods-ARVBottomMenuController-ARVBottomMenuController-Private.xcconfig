@@ -1,0 +1,5 @@
+#include "Pods-ARVBottomMenuController-ARVBottomMenuController.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/ARVBottomMenuController" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/ARVBottomMenuController"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

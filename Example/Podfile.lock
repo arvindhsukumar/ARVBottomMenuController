@@ -1,0 +1,14 @@
+PODS:
+  - ARVBottomMenuController (0.1.0)
+
+DEPENDENCIES:
+  - ARVBottomMenuController (from `../`)
+
+EXTERNAL SOURCES:
+  ARVBottomMenuController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ARVBottomMenuController: 370c25f62495dcb5830f593ed54860ea20339410
+
+COCOAPODS: 0.35.0
