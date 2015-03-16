@@ -10,13 +10,9 @@
 Pod::Spec.new do |s|
   s.name             = "ARVBottomMenuController"
   s.version          = "0.2.0"
-  s.summary          = "A short description of ARVBottomMenuController."
-  s.description      = <<-DESC
-                       An optional longer description of ARVBottomMenuController
+  s.summary          = "ARVBottomMenuController"
+  s.description      = "Menu component for iOS that opens from the bottom for easy access"
 
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
-                       DESC
   s.homepage         = "https://github.com/arvindhsukumar/ARVBottomMenuController"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
