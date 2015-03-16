@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ARVBottomMenuController', :exclusive => true do
+  pod "ARVBottomMenuController", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "ARVBottomMenuController", :path => "../"
+
+  
+end
